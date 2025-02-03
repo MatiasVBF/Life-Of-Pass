@@ -1,0 +1,3 @@
+Neste exemplo, o código avalia o texto "Estou muito feliz e animado hoje, mas também um pouco assustado com a prova." e retorna uma pontuação para cada emoção com base nas palavras encontradas no texto.
+
+Este é um exemplo básico e pode ser melhorado de várias maneiras, como utilizando bibliotecas mais avançadas de processamento de linguagem natural (NLP) ou técnicas de aprendizado de máquina para obter resultados mais precisos e abrangentes.
